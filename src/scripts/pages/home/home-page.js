@@ -1,4 +1,4 @@
-import HomePresenter from '../presenters/home-presenter.js';
+import HomePresenter from '../../presenters/home-presenter.js';
 
 export default class HomePage {
   constructor() {
